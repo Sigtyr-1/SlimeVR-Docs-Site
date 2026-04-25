@@ -21,7 +21,7 @@ Go to System Settings - > Privacy and Security -> You should see SlimeVR was blo
 
 ## Installing Java
 
-Download and install Java depending on what processor you have.
+Download and install Java depending on what processor you have. Select JRE and download the .PKG file.
 
 [M1 or Newer](https://adoptium.net/temurin/releases/?version=17&os=mac&arch=aarch64&package=jre)
 
